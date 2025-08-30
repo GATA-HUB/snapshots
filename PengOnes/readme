@@ -1,0 +1,51 @@
+# 🐧 PengOnes – Holders & Yield Snapshots
+
+This repository maintains **historical snapshots** of PengOne NFT holders and their associated yield distributions in $ATONE.  
+PengOnes are community-owned NFTs by [GATA HUB](https://gatahub.zone), delivering consistent yield and rewards to holders.
+
+---
+
+## 📂 Repository Structure
+
+- `snapshots/` – Contains JSON/CSV files with holder addresses and balances at specific epochs.  
+- `yields/` – Contains distribution records of yield  across holders.   
+---
+
+## 📊 Snapshot Methodology
+
+- Snapshots are taken **once per epoch** (every 30 days).  
+- Data is collected **on-chain** via Stargaze   
+- Holder list includes **all wallet addresses with PengOne NFTs**.  
+- Yield distribution reflects actual rewards sent to holders.
+
+---
+
+## 🪙 Yield Distribution Policy
+
+- **Epoch Rewards (70%)** → Distributed proportionally to PengOne rarity multipliers.  
+- **Buy & Burn (10%)** → Used to reduce supply, boosting value.  
+- **Yield Raffle (10%)** → Randomized rewards to engage the community.  
+- **Collection Offers (10%)** → Supports liquidity and floor strength.  
+
+---
+
+## 🔐 Transparency & Verification
+
+All snapshot and yield data published here is:  
+- **Immutable** – Past records are never altered.  
+- **Verifiable** – Can be cross-checked on-chain.  
+- **Community-Owned** – Open data for governance and research.  
+
+---
+
+## 🚀 Roadmap
+
+- [ ] Automate snapshot collection with cron jobs  
+- [ ] Add visualization dashboards (charts of yield over time)  
+- [ ] Archive monthly reports in `reports/` folder  
+
+---
+
+
+
+🐧 *Steady workers. Steady yield.*  
