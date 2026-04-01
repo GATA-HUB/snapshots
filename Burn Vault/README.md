@@ -36,11 +36,11 @@ Each month, the vault distributes rewards to participants who burn eligible NFTs
 
 ## 🧬 Eligible Collections
 
-* YG (Yield Gorillas)
-* YP (Pengones)
+* YG [(Yield Gorillas) ](https://stargaze.zone/m/cosmos1a4uanyytpvx0cq043yljlf0phhy2h95t6wsraprhnryyaqzdjw2sl3z5rn)
+* YP [(Yield Paws)](https://stargaze.zone/m/cosmos1te4992utv2kyfguf6lad2szsunj29gqqsvjzqdsfh9g62yeuvclsvvtl8t)
 * YC (Yield Crocs)
-* YW
-* POs
+* YW  [(Yield Walkers)](https://stargaze.zone/m/cosmos1mzr08swy3m6fx8xgmmfd5cf3wvjgsef8pnv9saacly03s3w4n5jq7qq9st)
+* POs [(PengOnes)](https://stargaze.zone/m/cosmos1dvx9q8ck866qmpqpqdy3guqt96579x9ukn6qxx6mtf4x5gxfzfqschuxlw)
 
 ---
 
@@ -61,13 +61,13 @@ Example (initial weights):
 
 ### Monthly Raffle
 
-* 50% of vault distributed
-* 10 winners
+* 75% of vault distributed
+* 3 winners
 * Only burn participants eligible
 
 ### 🏆 Yearly Raffle
 
-* 50% accumulated throughout the year
+* 25% accumulated throughout the year
 * 25 winners
 * Drawn on **GATA Birthday**
 
