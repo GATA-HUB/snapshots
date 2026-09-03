@@ -75,10 +75,8 @@ Monthly reward distributions for:
 
 Contains:
 - Holder snapshots
-- Reward calculations
 - Distribution CSVs
-- Infographics
-- Historical epochs
+- Epoch Infographics
 
 Folder:
 ```
@@ -92,11 +90,7 @@ Folder:
 The official archive for the GATA Pixels collection.
 
 Contains:
-
-- Monthly holder snapshots
 - Epoch distributions
-- Reward calculations
-- Raffle snapshots
 - Distribution records
 
 Folder:
@@ -114,8 +108,6 @@ Each folder contains:
 
 - Holder snapshots
 - Epoch rewards
-- Distribution files
-- Historical records
 
 ## Yield Gorillas
 
