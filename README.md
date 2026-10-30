@@ -1,3 +1,8 @@
+# GATA HUB Snapshots
+
+Welcome to the official GATA HUB Snapshots repository. This repository serves as the public archive for all reward distribution snapshots, holder records, governance assets, historical distributions, and supporting data used across the GATA ecosystem. Every monthly epoch, reward distribution, and NFT holder snapshot is archived here to ensure transparency and allow anyone to independently verify reward allocations.
+
+---
 ## GATA HUB Ecosystem
 
 ```text
@@ -20,10 +25,6 @@ GATA HUB Ecosystem
 │
 └── Delegator Rewards
 ```
-
-
----
-
 ## Marketplace Collections
 
 * GATA Pixels
@@ -50,26 +51,13 @@ GATA HUB Ecosystem
 * PengOnes
   https://stargaze.zone/m/cosmos1dvx9q8ck866qmpqpqdy3guqt96579x9ukn6qxx6mtf4x5gxfzfqschuxlw
 
-
-# GATA HUB Snapshots
-
-Welcome to the official GATA HUB Snapshots repository.
-
-This repository serves as the public archive for all reward distribution snapshots, holder records, governance assets, historical distributions, and supporting data used across the GATA ecosystem.
-
-Every monthly epoch, reward distribution, and NFT holder snapshot is archived here to ensure transparency and allow anyone to independently verify reward allocations.
-
----
-
 # Repository Structure
 
 ## 👾 GATA Genesis
-
 The original GATA HUB NFT collections.
 
 ### GATA DAO Distributions
 Monthly reward distributions for:
-
 - Colonial Cats
 - Voyager Cats
 
